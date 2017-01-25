@@ -80,3 +80,7 @@ footer {
   margin:0;
   padding:15px 0 15px 55px;
 }
+
+.line-break {
+  border: 1px solid grey;
+}
