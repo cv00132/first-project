@@ -1,162 +1,82 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>First Project</title>
-<link href="style.css" type="stylesheet" />
-</head>
-<div class="navbar">
-  <a href="#" class="logo">I</a>
-  <a href="https://www.theironyard.com/" target="_blank"><span style="font-weight: bold">Iron News</span></a>
-  <a href="#">new</a>  |
-  <a href="#">comments</a>  |
-  <a href="#">show</a>  |
-  <a href="#">ask</a>  |
-  <a href="#">jobs</a>  |
-  <a href="#">submit</a>
-  <a href="#" style="float:right">login</a>
-</div>
-<div class="background">
-  <ol>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<span class="website">(afoubo.com)</span>
-      </a>
-      <p class="subscript"> 11 points by rotskoff | hide | <a href="#">129 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Integer nec odio <span class="website">(neverl.com)</span>
-      </a>
-      <p class="subscript"> 13 points by rotskoff | hide | <a href="#">29 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Praesent libero<span class="website">(uarddown.com)</span>
-      </a>
-      <p class="subscript"> 97 points by rotskoff | hide | <a href="#">19 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Sed cursus ante dapibus diam <span class="website">(neletyrddon.com)</span>
-      </a>
-      <p class="subscript"> 67 points by rotskoff | hide | <a href="#">229 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Sed nisi<span class="website">(nafjasjg.com)</span>
-      </a>
-      <p class="subscript"> 146 points by rotskoff | hide | <a href="#">43 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Nulla quis sem at nibh elementum imperdiet<span class="website">(gakj.com)</span>
-      </a>
-      <p class="subscript"> 45 points by rotskoff | hide | <a href="#">98 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Duis sagittis ipsum<span class="website">(neuarddown.com)</span>
-      </a>
-      <p class="subscript"> 99 points by rotskoff | hide | <a href="#">67 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Fusce nec tellus sed augue semper porta <span class="website">(teverrguawn.com)</span>
-      </a>
-      <p class="subscript"> 23 points by rotskoff | hide | <a href="#">56 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Vestibulum lacinia arcu eget nulla<span class="website">(loremn.com)</span>
-      </a>
-      <p class="subscript"> 33 points by rotskoff | hide | <a href="#">124 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Class aptent taciti sociosqu ad litora torquent per conubia nostra<span class="website">(ipsanium.com)</span>
-      </a>
-      <p class="subscript"> 87 points by rotskoff | hide | <a href="#">12 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Curabitur sodales ligula in libero<span class="website">(rickandmorty.com)</span>
-      </a>
-      <p class="subscript"> 76 points by rotskoff | hide | <a href="#">13 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Sed dignissim lacinia nunc<span class="website">(diagnosium.com)</span>
-      </a>
-      <p class="subscript"> 91 points by rotskoff | hide | <a href="#">47 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa<span class="website">(jimcairriumn.com)</span>
-      </a>
-      <p class="subscript"> 1 points by rotskoff | hide | <a href="#">19 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Class aptent taciti sociosqu ad litora<span class="website">(neverletyhol.com)</span>
-      </a>
-      <p class="subscript"> 51 points by rotskoff | hide | <a href="#">63 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Nunc feugiat mi a tellus consequat imperdiet<span class="website">(nmanuted.com)</span>
-      </a>
-      <p class="subscript"> 17 points by rotskoff | hide | <a href="#">76 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Suspendisse in justo eu magna luctus suscipit<span class="website">(nevergonna.com)</span>
-      </a>
-      <p class="subscript"> 1 points by rotskoff | hide | <a href="#">12 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Integer euismod lacus luctus magna<span class="website">(giveyou.com)</span>
-      </a>
-      <p class="subscript"> 21 points by rotskoff | hide | <a href="#">29 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Praesent blandit dolor<span class="website">(upnever.com)</span>
-      </a>
-      <p class="subscript"> 61 points by rotskoff | hide | <a href="#">33 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Vestibulum tincidunt malesuada tellus<span class="website">(gonnalety.com)</span>
-      </a>
-      <p class="subscript"> 5 points by rotskoff | hide | <a href="#">41 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Curabitur sit amet mauris<span class="website">(oudownneverg.com)</span>
-      </a>
-      <p class="subscript"> 31 points by rotskoff | hide | <a href="#">19 comments</a></p>
-    </li>
-    <li>
-      <img src ="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
-      <a href="#">Nunc feugiat mi a tellus consequat imperdiet<span class="website">(onnaturnaround.com)</span>
-      </a>
-      <p class="subscript"> 98 points by rotskoff | hide | <a href="#">323 comments</a></p>
-    </li>
-  </ol>
-  <p style="margin:0; padding:15px 0 15px 55px"><a href="#">More</a></p>
-</div>
-<hr class="background">
-<footer class="background">
-  <a href="#">Guidelines</a>  |
-  <a href="#">FAQ</a>  |
-  <a href="#">Support</a>  |
-  <a href="#">Lists</a>  |
-  <a href="#">Bookmarklet</a>  |
-  <a href="#">DMCA</a>  |
-  <a href="#">Y Combinator</a>  |
-  <a href="#">Apply</a>  |
-  <a href="#">Contact</a>
-  <p class="search">Search: <input type="text"/></p>
-</footer>
-</html>
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  margin: 10px 50px;
+  padding: 0;
+  font-size: 10pt;
+}
+
+.navbar {
+  background-color: #8D90A1;
+  padding: 5px;
+}
+
+.background {
+  background-color: #EEF0F3;
+}
+
+ol {
+  color: #828282;
+  margin: 0px;
+  padding-top: 15px;
+}
+
+li {
+  padding: 0 0 2px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p > a {
+  color: #828282;
+}
+
+hr {
+ margin: 0;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  font-size: 10px;
+  background-color:
+}
+
+.logo {
+  border: 1px solid white;
+  font-weight: bold;
+  padding: 2px 5px;
+  color: white;
+}
+
+.website {
+  font-size: 10px;
+  padding-left: 5px;
+}
+
+.subscript {
+  margin: -2px;
+  font-size: 10px;
+  text-indent: 16px;
+  padding: 3px;
+}
+
+.search {
+  padding: 10px;
+  font: 10pt;
+}
+
+.heavyweight {
+  font-weight: bold;
+}
+
+.login {
+  float: right;
+}
+
+.moreBtn {
+  margin:0;
+  padding:15px 0 15px 55px;
+}
